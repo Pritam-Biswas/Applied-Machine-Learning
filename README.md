@@ -4,7 +4,7 @@
 ### **Technology stack used : Python3, Scikit-learn, Keras, Tensorflow, Matplotlib**
 
 The repo contains Jupyter notebooks for following tasks:
-1. [**Data Visualization**](Data Visualization/Data Visualization Using Matplotlib.ipynb) - A Data Visualization notebook using Matplotlib, to show exploratory data analysis
+1. **Data Visualization** - A Data Visualization notebook using Matplotlib, to show exploratory data analysis
 
 2. **Regression and Classification pipelines** - Running regression and classification on a dataset, using numeric and categorical column transformers, Grid Search, Ridge and Lasso
 
